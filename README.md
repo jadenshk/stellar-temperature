@@ -8,6 +8,6 @@ Using the stellar spectra, the general idea is to find the maximum of the regres
 
 ## Materials
 
-[research paper](/research.pdf) See my research paper on automating the calculation of stellar temperature for details about the methods, data, results, and discussion. 
+[research paper](/research.pdf): see my research paper on automating the calculation of stellar temperature for details about the methods, data, results, and discussion. 
 
-[code](/code.ipynb) And take a look at the finalized code for the project
+[code](/code.ipynb): take a look at the finalized code for the project
