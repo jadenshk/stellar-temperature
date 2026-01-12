@@ -4,4 +4,9 @@ Stellar temperature is super important to cosmology and astronomy, but it's diff
 
 ## Methodology
 
-Using the stellar spectra, the general idea is to find the maximum of the regressed data and apply Wein's Law to find the temperature of the star. For the purposes of research, I tested some other methods but they weren't really interesting in terms of outcomes. See my research paper for details about the methods, data, results, and discussion.
+Using the stellar spectra, the general idea is to find the maximum of the regressed data and apply Wein's Law to find the temperature of the star. For the purposes of research, I tested some other methods but they weren't really interesting in terms of outcomes. 
+
+## Materials
+
+See my research paper here for details about the methods, data, results, and discussion.
+And take a look at all the code for the project here.
