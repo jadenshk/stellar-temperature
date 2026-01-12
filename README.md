@@ -8,5 +8,4 @@ Using the stellar spectra, the general idea is to find the maximum of the regres
 
 ## Materials
 
-See my research paper here for details about the methods, data, results, and discussion.
-And take a look at all the code for the project here.
+See my research paper here for details about the methods, data, results, and discussion. And take a look at all the code for the project [here](\ACST_Condensed.ipynb)
