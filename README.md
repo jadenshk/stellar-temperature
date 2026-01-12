@@ -10,4 +10,6 @@ Using the stellar spectra, the general idea is to find the maximum of the regres
 
 [research paper](/research.pdf): see my research paper on automating the calculation of stellar temperature for details about the methods, data, results, and discussion. 
 
-[code](/code.ipynb): take a look at the finalized code for the project
+[code](/code.ipynb): take a look at the finalized code for the project. 
+
+All the data is sourced from the POLLUX database BT-Dusty collection (access [here](https://pollux.oreme.org/explore/BT-Dusty/)). The spectra are all synthetic, i.e. they are computer generated based on specific parameters. 
